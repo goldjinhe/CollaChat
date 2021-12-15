@@ -266,7 +266,7 @@ export default {
   "Destroy ID": "销毁身份",
   "Logout": "退出登录",
   "Change Avatar": "修改头像",
-  "Restricted to images, size less than 2M": "限定图片文件，大小不超过2M",
+  "Upload file cannot exceed": "Upload file cannot exceed",
   "Change Name": "修改用户名",
   "Change Mobile": "修改手机号",
   "Scan QR code to add me into your contacts": "扫描二维码，将我加为你的联系人",
